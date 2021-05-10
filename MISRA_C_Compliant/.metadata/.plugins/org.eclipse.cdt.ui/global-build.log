@@ -1,0 +1,249 @@
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 14: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 17: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 12: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 12: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 12: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 46: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_p")
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 14: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 17: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 12: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 12: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 46: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_p")
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"..\access_fun.h", line 15: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 20: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 12: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 46: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_p")
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:16: recipe for target 'main.obj' failed
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"..\access_fun.h", line 15: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 20: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 47: error #156: expression must have struct or union type
+"../main.c", line 49: error #156: expression must have struct or union type
+"../main.c", line 51: error #156: expression must have struct or union type
+"../main.c", line 52: error #156: expression must have struct or union type
+"../main.c", line 53: error #169: argument of type "subj *" is incompatible with parameter of type "subj"
+5 errors detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"..\access_fun.h", line 15: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 20: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 47: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_p")
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"..\access_fun.h", line 15: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 20: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 44: warning #1696-D: multicharacter character literal (potential portability problem)
+"../main.c", line 44: warning #70-D: integer conversion resulted in truncation
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"..\access_fun.h", line 15: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 18: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 19: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"..\access_fun.h", line 20: warning #1420-D: (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\access_fun.h", line 13: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 7: warning #303-D: typedef name has already been declared (with same type)
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+ 
+>> Compilation failure
+subdir_rules.mk:16: recipe for target 'main.obj' failed
+"..\access_fun.h", line 13: error #20: identifier "int32_t" is undefined
+1 error detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project ass3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 4 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 -O4 --include_path="D:/4th Biomedical/Second Semster/Embedded/home3/ass3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****

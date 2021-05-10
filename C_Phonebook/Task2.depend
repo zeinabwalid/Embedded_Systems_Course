@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618939966 source:d:\4th biomedical\second semster\embedded\task2\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"access_fun.h"
+	"math.h"
+
+1618939966 source:d:\4th biomedical\second semster\embedded\task2\task2\access_fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"access_fun.h"
+	"math.h"
+
+1618939525 d:\4th biomedical\second semster\embedded\task2\task2\access_fun.h
+
